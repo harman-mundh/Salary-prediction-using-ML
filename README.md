@@ -4,24 +4,24 @@ Source on Kaggle: [Salary Prediction Classification](https://www.kaggle.com/data
 
 ### Checklist of completed tasks:
 #### Task 1
-- [ ] Select a real-world classification problem
-- [ ] Select a suitable dataset for the chosen problem (must have 1200 samples after pre-processing)
-- [ ] Select more than one approriate ML algo
-- [ ] Evaluate the created models on the selected data
-- [ ] Tune the models to achieve better performace 
+- [x] Select a real-world classification problem
+- [x] Select a suitable dataset for the chosen problem (must have 1200 samples after pre-processing)
+- [x] Select more than one approriate ML algo
+- [x] Evaluate the created models on the selected data
+- [x] Tune the models to achieve better performace 
 
 #### Task 2
-- [ ] 5 min demo video, with execution of all stages and output
-- [ ] Demo must describe what is happening and give clearn reasoning
-- [ ] Ensure proper visibility of the Text, Table, Graphs, reasonable font size, no noise, not blurry.
-- [ ] Must use Jupyter Notebook
+- [x] 5 min demo video, with execution of all stages and output
+- [x] Demo must describe what is happening and give clearn reasoning
+- [x] Ensure proper visibility of the Text, Table, Graphs, reasonable font size, no noise, not blurry.
+- [x] Must use Jupyter Notebook
 
 #### Task 3
-- [ ] Analysing and pre-processing the data
-- [ ] Applying different algorithms and methods to build learning models
-- [ ] Making appropriate adjustments to improve the models’ performances
-- [ ] Evaluating the models (metrics, cross validation, confusion matrices, etc.)
-- [ ] Comparing the approaches and results of other existing pieces of work on the same problem
+- [x] Analysing and pre-processing the data
+- [x] Applying different algorithms and methods to build learning models
+- [x] Making appropriate adjustments to improve the models’ performances
+- [x] Evaluating the models (metrics, cross validation, confusion matrices, etc.)
+- [x] Comparing the approaches and results of other existing pieces of work on the same problem
 
 **Report**:
 * Problem statement
@@ -52,9 +52,9 @@ the (GitHub, datasets, OneDrive) URLs, bibliography, reference list, and appendi
 coursework template)
 
 #### Task 4
-- [ ] One submission file
-- [ ] Must contain GitHub link at the beginning of the report
-- [ ] Repo must be accessible by examiners
-- [ ] Readme present with link of dataset used
-- [ ] Source code with appropriate comments and annotations 
-- [ ] Demo video 
+- [x] One submission file
+- [x] Must contain GitHub link at the beginning of the report
+- [x] Repo must be accessible by examiners
+- [x] Readme present with link of dataset used
+- [x] Source code with appropriate comments and annotations 
+- [x] Demo video 
